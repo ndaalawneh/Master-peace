@@ -44,7 +44,7 @@
             <div class="media-body">
            
           <h3 class="heading">Refund Policy</h3>
-          <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+          <p>simply , if you don't like it you can back it , just ask for it and you won't regret that.</p>
           </div>
         </div>      
         </div>
@@ -55,7 +55,7 @@
           </div>
           <div class="media-body">
           <h3 class="heading">Premium Packaging</h3>
-          <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+          <p>When You think about giving some one a gift , we are the best chioce to help you.</p>
           </div>
         </div>    
         </div>
@@ -66,7 +66,7 @@
           </div>
           <div class="media-body">
           <h3 class="heading">Superior Quality</h3>
-          <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+          <p>Find The Best Product You Want with the super quality that satisfy you.</p>
           </div>
         </div>      
         </div>

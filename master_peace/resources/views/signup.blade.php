@@ -1,12 +1,12 @@
 
-
-
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1">
+
+
 
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
 
@@ -83,7 +83,10 @@
 *::before,
 *::after {
 box-sizing: inherit;
+/* background-color: #a55741 */
+
 }
+
 
 html {
 box-sizing: border-box;
@@ -106,6 +109,7 @@ font-family: var(--font-body-family);
 font-style: var(--font-body-style);
 font-weight: var(--font-body-weight);
 background-color: rgba(var(--color-base-background-primary), 1);
+
 }
 
 @media screen and (min-width: 750px) {
@@ -713,9 +717,7 @@ header .header--ribbon--close{
 
 
 
-
     
-
 
                    
    
@@ -759,18 +761,21 @@ header .header--ribbon--close{
         <div class="tools--wrapper">
             <button type="submit" class="js-submit-btn btn-blue">
                 <span>create account</span>
+
             </button>
+           
 
       
 
-        <p class="bottom-link">
-            already have an account <a href="/account/register">login</a>
-        </p>
+       
 
     </form>
-</div>
+   
+</div> 
+  <p class="bottom-link">
+              already have an account <a href="/account/register">login</a>
+          </p>
 </div>
 
-    
 
 
