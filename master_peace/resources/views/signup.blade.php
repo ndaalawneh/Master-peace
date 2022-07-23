@@ -733,16 +733,16 @@ header .header--ribbon--close{
         <div class="input-wrapper">
             <input type="email" placeholder="First Name" name="customer[email]" class="email-input small" autocorrect="off" autocapitalize="off" autofocus required />
             <div class="error">
-                Please enter a first name
+                Please enter your name
             </div>
         </div>
-
+{{-- 
         <div class="input-wrapper">
             <input type="email" placeholder="Last Name" name="customer[email]" class="email-input small" autocorrect="off" autocapitalize="off" autofocus required />
             <div class="error">
                 Please enter a valid last name
             </div>
-        </div>
+        </div> --}}
         <div class="input-wrapper">
             <input type="email" placeholder="Email" name="customer[email]" class="email-input small" autocorrect="off" autocapitalize="off" autofocus required />
             <div class="error">
